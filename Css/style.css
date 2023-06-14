@@ -6,13 +6,12 @@
 }
 
 body {
-    width: 500px;
-    height: auto;
+    width: 100whx;
+    height: 100hw;
 }
 
 menu {
-    width: 490px;
-    height: auto;
+    
     background-color: aliceblue;
     border-bottom: 2px solid black;
 }
