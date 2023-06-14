@@ -6,13 +6,14 @@
 }
 
 body {
-    width: 100whx;
-    height: 100hw;
+    width: 98%;
+    height: 100vh;
+    margin: 20px;
+    background-color: #ddd;
 }
 
 menu {
-    
-    background-color: aliceblue;
+    background-color: #aaa;
     border-bottom: 2px solid black;
 }
 
@@ -31,8 +32,8 @@ nav {
 }
 
 .cab-p {
-    background-color: white;
-    border: 1px solid rgba(150, 190, 223, 0.733);
+    background-color: #f1f1f1;
+    border: 1px solid black;
     border-radius: 5px;
     padding: 5px;
     width: 90px;
@@ -56,7 +57,39 @@ a {
 }
 
 a:hover {
-    background-color: blanchedalmond;
+    color: blueviolet;
+    text-decoration: underline;
+}
+.head-menu {
+    background-color: #333;
+    height: 30px;
+}
+
+header {
+    background-color: white;
+    height: 200px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.content {
+    background-color: white;
+    height: 200px;
+    margin-top: 10px;
+}
+
+.sign-up {
+    background-color: white;
+    height: 200px;
+    margin-top: 10px;
+}
+
+.feature {
+    background-color: white;
+    height: 200px;
+    margin-top: 10px;
 }
 
 
