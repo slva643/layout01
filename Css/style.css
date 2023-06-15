@@ -10,9 +10,9 @@
 
 /* Configuração do corpo da pag */
 html, body {
-    max-width: 750px;
+    min-width: 450px;
     height: 0 auto;
-    margin: 20px;
+    margin: 10px;
     background-color: #ddd;
 }
 
@@ -39,9 +39,7 @@ nav {
 }
 
 .cab-p {
-    padding: 5px;
-    width: 90px;
-    text-align: center;
+    /* padding: 5px; */
 }
 
 .menu {
@@ -136,5 +134,5 @@ footer h1 {
 
 
 /* @media screen and (min-witdh: 750px) and (max-witdh: 900px) {
-    
+
 } */
