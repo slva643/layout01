@@ -32,9 +32,9 @@ nav {
 }
 
 .cab-p {
-    background-color: #f1f1f1;
-    border: 1px solid black;
-    border-radius: 5px;
+    /* background-color: #f1f1f1; */
+    /* border: 1px solid black; */
+    /* border-radius: 5px; */
     padding: 5px;
     width: 90px;
     text-align: center;
@@ -42,24 +42,32 @@ nav {
 
 .menu {
     display: inline;
-    background-color: white;
-    padding: 5px;
-    border: 1px solid;
-    border-radius: 50px;
+    /* background-color: white; */
+    /* padding: 5px; */
+    /* border: 1px solid; */
+    /* border-radius: 50px; */
     margin:4px;
 }
 
 a {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bolder;
+    background-color: aliceblue;
+    border: 1px solid;
+    border-radius: 50px;
     font-size: 13px;
-    color: black;
+    padding: 5px;
 }
 
 a:hover {
-    color: blueviolet;
-    text-decoration: underline;
+    background-color:#f1f1f1 ;
+    color: black;
 }
+
+.cab-p a {
+    border-radius: 5px;
+}
+
 .head-menu {
     background-color: #333;
     height: 30px;
