@@ -10,10 +10,11 @@
 
 /* Configuração do corpo da pag */
 
+
 body {
-    max-width: 430px;
-    height:  0 auto;
-    margin: 5px 5px 0px 5px ;
+    width: 100%;
+    height: 0 auto;
+    margin: 5px 5px 0px 5px;
     background-color: #ddd;
 }
 
@@ -81,7 +82,8 @@ a:hover {
 
 .seg-men {
     background-color: white;
-    padding: 80px;
+    width: 100%;
+    height: 150px;
 }
 
 h1 {
@@ -92,13 +94,15 @@ h1 {
 
 .content {
     background-color: white;
-    padding: 90px;
+    width: 100%;
+    height: 150px;
     margin-top: 10px;
 }
 
 .sign-up {
     background-color: white;
-    padding: 90px;
+    width: 100%;
+    height: 150px;
     margin-top: 10px;
 }
 
@@ -107,19 +111,22 @@ h1 {
 /* Configuração rodapé */
 .feature-1 {
     background-color: white;
-    padding: 90px;
+    width: 100%;
+    height: 150px;
     margin-top: 10px;
 }
 
 .feature-2 {
     background-color: white;
-    padding: 90px;
+    width: 100%;
+    height: 150px;
     margin-top: 10px;
 }
 
 .feature-3 {
     background-color: white;
-    padding: 90px;
+    width: 100%;
+    height: 150px;
     margin-top: 10px;
 }
 
@@ -134,8 +141,3 @@ footer {
 footer h1 {
     color: white;
 }
-
-
-/* @media screen and (min-witdh: 750px) and (max-witdh: 900px) {
-
-} */
