@@ -10,7 +10,7 @@
 
 /* Configuração do corpo da pag */
 html, body {
-    max-width: 500px;
+    max-width: 700px;
     height: 0 auto;
     margin: 20px;
     background-color: #ddd;
@@ -125,4 +125,6 @@ footer h1 {
 }
 
 
-@media screen and (min-witdh:) {}
+@media screen and (min-witdh: 500px) and (max-witdh: 900px) {
+
+}
