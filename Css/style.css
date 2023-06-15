@@ -9,10 +9,11 @@
 }
 
 /* Configuração do corpo da pag */
-html, body {
-    min-width: 400px;
+html,
+body {
+    max-width: 400px;
     height: 0 auto;
-    margin: 10px;
+    margin: 5px;
     background-color: #ddd;
 }
 
@@ -115,11 +116,13 @@ h1 {
     padding: 90px;
     margin-top: 10px;
 }
+
 .feature-3 {
     background-color: white;
     padding: 90px;
     margin-top: 10px;
 }
+
 footer {
     padding: 100px;
     background-color: #1d1c1c;
