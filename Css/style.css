@@ -9,11 +9,11 @@
 }
 
 /* Configuração do corpo da pag */
-html,
+
 body {
-    max-width: 400px;
-    height: 0 auto;
-    margin: 5px;
+    max-width: 430px;
+    height:  0 auto;
+    margin: 5px 5px 0px 5px ;
     background-color: #ddd;
 }
 
@@ -40,7 +40,7 @@ nav {
 }
 
 .cab-p {
-    /* padding: 5px; */
+    padding: 5px;
 }
 
 .menu {
@@ -126,7 +126,7 @@ h1 {
 footer {
     padding: 100px;
     background-color: #1d1c1c;
-    margin-bottom: 5px;
+    margin-bottom: 1px;
 
 
 }
