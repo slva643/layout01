@@ -9,8 +9,8 @@
 
 /* Configuração do corpo da pag */
 body {
-    width: 95%;
-    height: 100vh;
+    max-width: 500px;
+    maheight: 0 auto;
     margin: 20px;
     background-color: #ddd;
     box-shadow: 0.1px 1px 0px 0.2px black;
@@ -65,7 +65,7 @@ a {
 
 /* Configuração da pagina principal */
 main {
-    box-shadow: 0.2px 1px 0px 0.2px rgba(0, 0, 0, 0.651);
+    box-shadow: 0.2px 1px 0px 0.2px #000000a6;
 }
 
 a:hover {
@@ -116,7 +116,7 @@ h1 {
 
 footer {
     padding: 100px;
-    background-color: black;
+    background-color: #1d1c1c;
     margin-bottom: 5px;
 
 
